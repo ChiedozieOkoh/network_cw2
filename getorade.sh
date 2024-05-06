@@ -4,7 +4,7 @@ stamp="timestamp=$(date +%s)"
 echo $stamp
 cat $1 | while read -r line ; do
    echo " "
-   wget $line 
+   wget $line -O /dev/null -a $2
    echo "<-->"
 done
 
