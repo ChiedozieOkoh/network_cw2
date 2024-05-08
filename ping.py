@@ -1,7 +1,7 @@
 import csv
 import re
 
-logFile = "testing.log"
+logFile = "pingtest2.log"
 
 data = []
 domains = []
@@ -60,6 +60,8 @@ fields = ["host", "packet loss %", "rttMin", "rttavg", "rttMax", "rttmdev"]
 
 # convert nums array to 2d array
 list = [nums[i : i + 6] for i in range(0, len(nums), 6)]
+
+list.sort()
 
 
 filename = "pingtest.csv"
