@@ -29,8 +29,6 @@ traceroute to ftp.douane.gov.km (199.16.129.11), 30 hops max, 60 byte packets
 28  * * *
 29  * * *
 30  * * *
-
-
 traceroute to ftp.douane.gov.km (199.16.129.11), 30 hops max, 60 byte packets
  1  139.222.188.1  94.330 ms  96.736 ms  99.907 ms
  2  193.62.92.118  91.242 ms  91.190 ms  91.133 ms
