@@ -11,8 +11,6 @@ with open(logFile) as f:
 for line in f:
     data.append(line)
 
-# print(data)
-# superlist = []
 for x in data:
     x = x.strip("\n")
     if x[0].isdigit() or x[0] == " ":
