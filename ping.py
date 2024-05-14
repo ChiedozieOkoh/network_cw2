@@ -1,7 +1,6 @@
 import csv
 import re
 from datetime import datetime
-from typing import final
 
 logFile = "pingtest2.log"
 

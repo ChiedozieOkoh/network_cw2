@@ -1,3 +1,3 @@
-speed,size
-288.0,244.0
-17408.0,1505.28
+host,time,speed,size
+http://ftp.itam.mx/pub/academico/inves/seminars/hopenhayn.pdf,2024-05-08 14:59:30,288.0,244.0
+https://templeos.org/Downloads/TempleOS.ISO,2024-05-08 14:59:31,17408.0,1505.28
