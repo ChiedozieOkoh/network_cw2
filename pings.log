@@ -1,0 +1,284 @@
+===start===
+timestamp=1715169182
+
+PING cinepolis.com.br (177.93.108.12) 56(84) bytes of data.
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=1 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=2 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=3 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=4 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=5 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=6 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=7 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=8 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=9 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=10 ttl=51 time=201 ms
+
+--- cinepolis.com.br ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 200.502/200.653/200.923/0.142 ms
+<-->
+
+PING delicious.com.au (23.40.72.153) 56(84) bytes of data.
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=1 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=2 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=3 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=4 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=5 ttl=39 time=327 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=6 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=7 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=8 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=9 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=10 ttl=39 time=328 ms
+
+--- delicious.com.au ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 327.372/327.623/327.981/0.152 ms
+<-->
+
+PING demapi.colmex.mx (200.52.255.108) 56(84) bytes of data.
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=1 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=2 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=3 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=4 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=5 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=6 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=7 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=8 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=9 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=10 ttl=113 time=133 ms
+
+--- demapi.colmex.mx ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 133.095/133.308/133.580/0.152 ms
+<-->
+
+PING bsicbank.com (102.213.181.207) 56(84) bytes of data.
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=1 ttl=47 time=56.2 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=2 ttl=47 time=57.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=3 ttl=47 time=56.4 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=4 ttl=47 time=56.4 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=5 ttl=47 time=56.8 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=6 ttl=47 time=57.3 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=7 ttl=47 time=56.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=8 ttl=47 time=56.3 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=9 ttl=47 time=56.4 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=10 ttl=47 time=56.4 ms
+
+--- bsicbank.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 56.205/56.639/57.573/0.432 ms
+<-->
+===end===
+===start===
+timestamp=1715169242
+
+PING cinepolis.com.br (177.93.108.12) 56(84) bytes of data.
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=1 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=2 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=3 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=4 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=5 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=6 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=7 ttl=51 time=200 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=8 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=9 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=10 ttl=51 time=201 ms
+
+--- cinepolis.com.br ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 200.491/200.635/200.856/0.102 ms
+<-->
+
+PING delicious.com.au (23.40.72.153) 56(84) bytes of data.
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=1 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=2 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=3 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=4 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=5 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=6 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=7 ttl=39 time=327 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=8 ttl=39 time=327 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=9 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=10 ttl=39 time=327 ms
+
+--- delicious.com.au ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9004ms
+rtt min/avg/max/mdev = 327.452/327.585/327.783/0.102 ms
+<-->
+
+PING demapi.colmex.mx (200.52.255.108) 56(84) bytes of data.
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=1 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=2 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=3 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=4 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=5 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=6 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=7 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=8 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=9 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=10 ttl=113 time=133 ms
+
+--- demapi.colmex.mx ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 133.168/133.410/133.727/0.185 ms
+<-->
+
+PING bsicbank.com (102.213.181.207) 56(84) bytes of data.
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=1 ttl=47 time=57.0 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=2 ttl=47 time=56.5 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=3 ttl=47 time=56.5 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=4 ttl=47 time=56.8 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=5 ttl=47 time=57.0 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=6 ttl=47 time=56.4 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=7 ttl=47 time=56.7 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=8 ttl=47 time=56.3 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=9 ttl=47 time=56.5 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=10 ttl=47 time=56.5 ms
+
+--- bsicbank.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 56.267/56.607/57.046/0.243 ms
+<-->
+===end===
+===start===
+timestamp=1715169302
+
+PING cinepolis.com.br (177.93.108.12) 56(84) bytes of data.
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=1 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=2 ttl=51 time=200 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=3 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=4 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=5 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=6 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=7 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=8 ttl=51 time=200 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=9 ttl=51 time=201 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=10 ttl=51 time=201 ms
+
+--- cinepolis.com.br ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 200.493/200.647/201.257/0.216 ms
+<-->
+
+PING delicious.com.au (23.40.72.153) 56(84) bytes of data.
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=1 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=2 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=3 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=4 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=5 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=6 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=7 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=8 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=9 ttl=39 time=327 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=10 ttl=39 time=328 ms
+
+--- delicious.com.au ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9004ms
+rtt min/avg/max/mdev = 327.472/327.693/328.030/0.165 ms
+<-->
+
+PING demapi.colmex.mx (200.52.255.108) 56(84) bytes of data.
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=1 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=2 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=3 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=4 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=5 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=6 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=7 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=8 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=9 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=10 ttl=113 time=133 ms
+
+--- demapi.colmex.mx ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 133.092/133.436/133.894/0.266 ms
+<-->
+
+PING bsicbank.com (102.213.181.207) 56(84) bytes of data.
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=1 ttl=47 time=56.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=2 ttl=47 time=56.3 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=3 ttl=47 time=56.3 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=4 ttl=47 time=56.3 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=5 ttl=47 time=56.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=6 ttl=47 time=57.0 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=7 ttl=47 time=56.8 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=8 ttl=47 time=57.0 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=9 ttl=47 time=56.5 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=10 ttl=47 time=56.6 ms
+
+--- bsicbank.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 56.306/56.611/57.019/0.252 ms
+<-->
+===end===
+===start===
+timestamp=1715169603
+
+PING cinepolis.com.br (177.93.108.12) 56(84) bytes of data.
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=1 ttl=51 time=226 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=2 ttl=51 time=226 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=3 ttl=51 time=227 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=4 ttl=51 time=227 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=5 ttl=51 time=227 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=6 ttl=51 time=227 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=7 ttl=51 time=227 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=8 ttl=51 time=227 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=9 ttl=51 time=226 ms
+64 bytes from sp-177-93-108-12.l3.eveocloud.net (177.93.108.12): icmp_seq=10 ttl=51 time=227 ms
+
+--- cinepolis.com.br ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 226.368/226.718/227.486/0.357 ms
+<-->
+
+PING delicious.com.au (23.40.72.153) 56(84) bytes of data.
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=1 ttl=39 time=352 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=2 ttl=39 time=351 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=3 ttl=39 time=352 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=4 ttl=39 time=352 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=5 ttl=39 time=352 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=6 ttl=39 time=352 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=7 ttl=39 time=352 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=8 ttl=39 time=334 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=9 ttl=39 time=328 ms
+64 bytes from a23-40-72-153.deploy.static.akamaitechnologies.com (23.40.72.153): icmp_seq=10 ttl=39 time=328 ms
+
+--- delicious.com.au ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 327.954/345.439/352.360/10.211 ms
+<-->
+
+PING demapi.colmex.mx (200.52.255.108) 56(84) bytes of data.
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=1 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=2 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=3 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=4 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=5 ttl=113 time=134 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=6 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=7 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=8 ttl=113 time=135 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=9 ttl=113 time=133 ms
+64 bytes from 200-52-255-108.colmex.mx (200.52.255.108): icmp_seq=10 ttl=113 time=133 ms
+
+--- demapi.colmex.mx ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9004ms
+rtt min/avg/max/mdev = 133.315/133.716/134.587/0.384 ms
+<-->
+
+PING bsicbank.com (102.213.181.207) 56(84) bytes of data.
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=1 ttl=47 time=56.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=2 ttl=47 time=56.7 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=3 ttl=47 time=56.5 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=4 ttl=47 time=56.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=5 ttl=47 time=56.4 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=6 ttl=47 time=56.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=7 ttl=47 time=56.6 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=8 ttl=47 time=56.4 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=9 ttl=47 time=56.5 ms
+64 bytes from bsicbank.server.ly (102.213.181.207): icmp_seq=10 ttl=47 time=56.4 ms
+
+--- bsicbank.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 56.375/56.530/56.743/0.119 ms
+<-->
+===end===
